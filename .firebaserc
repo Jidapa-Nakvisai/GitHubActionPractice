@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "github-action-practice-56b46",
+    " ": "github-action-practice-56b46"
+  },
+  "targets": {},
+  "etags": {}
 }
